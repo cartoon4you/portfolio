@@ -40,7 +40,7 @@ export default function App() {
               >
                 <div className="aspect-[4/5] rounded-3xl overflow-hidden glass p-3">
                   <img 
-                    src="src/11.png" 
+                    src="https://github.com/cartoon4you/portfolio/blob/c310db02d5bbda7d91c58068408b52dac32b193e/src/11.png" 
                     alt="Abdulrhman AlShameri" 
                     className="w-full h-full object-cover rounded-2xl grayscale"
                     referrerPolicy="no-referrer"
